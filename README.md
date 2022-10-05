@@ -3,11 +3,14 @@
 <h2> Sobre mim </h2>
 <p> Sou um Dev. Back-end Java, com aspiração a full-stack com Angular e Linguagens SQL ! Possuo conhecimentos em padrões web entre outras técnicas de programação.
 Estou sempre em busca de conhecimento e novos desafios, meus projetos pessoais e academicos podem ser encontrados aqui nesta página, que tal dar uma olhada? Para entrar em contato comigo, utilize os ícones abaixo. </p>
-<p>
-<a target="_blank"href="https://linkedin.com/in/bryan-william-866482232/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank"href="mailto:bryanwac@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank"href="https://twitter.com/bryanwac"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
+<div align ="center">
+  <p>
+      <a target="_blank"href="https://linkedin.com/in/bryan-william-866482232/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a target="_blank"href="mailto:bryanwac@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a target="_blank"href="https://twitter.com/bryanwac"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+<div>
 
 -----------------------------------
 ### Hi, I'm Bryan 👋
