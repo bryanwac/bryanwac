@@ -5,7 +5,7 @@
 ### Hi, I'm Bryan 👋
 ### Welcome to my GitHub!
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 <div align="center">
   <a href="https://github.com/bryanwac">
