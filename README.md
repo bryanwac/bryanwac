@@ -1,9 +1,11 @@
 ### Oi, meu nome é Bryan 👋
 ### Seja bem vindo ao meu GitHub!
+
 -----------------------------------
 ### Hi, I'm Bryan 👋
 ### Welcome to my GitHub!
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <div align="center">
   <a href="https://github.com/bryanwac">
