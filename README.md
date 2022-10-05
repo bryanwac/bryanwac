@@ -4,7 +4,7 @@
 <p> Sou um Dev. Back-end Java, com aspiração a full-stack com Angular e Linguagens SQL ! Possuo conhecimentos em padrões web entre outras técnicas de programação.
 Estou sempre em busca de conhecimento e novos desafios, meus projetos pessoais e academicos podem ser encontrados aqui nesta página, que tal dar uma olhada? Para entrar em contato comigo, utilize os ícones abaixo. </p>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/bryan-william-866482232/)) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 -----------------------------------
 ### Hi, I'm Bryan 👋
