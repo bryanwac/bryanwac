@@ -11,8 +11,8 @@ Estou sempre em busca de conhecimento e novos desafios, meus projetos pessoais e
       <a target="_blank"href="https://twitter.com/bryxnwill"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 <div>
-  
-  <p> I'm a Full-stack dev actually working with Java(Spring) and Angular! I've knowledge in web standards and SQL besides other programming techniques. I'm always looking for new knowledges and new challenges, my personal and academic projects can be found here on this page, how about taking a look? To contact me, use the icons in my bio. </p>
+ <h2> About me </h2>
+<p> I'm a Full-stack dev actually working with Java(Spring) and Angular! I've knowledge in web standards and SQL besides other programming techniques. I'm always   looking for new knowledges and new challenges, my personal and academic projects can be found here on this page, how about taking a look? To contact me, use the      icons in my bio. </p>
 
 -----------------------------------
 ### Hi, I'm Bryan 👋
