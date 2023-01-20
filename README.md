@@ -1,7 +1,7 @@
 ### Oi, meu nome é Bryan 👋
 ### Seja bem vindo ao meu GitHub!
 <h2> Sobre mim </h2>
-<p> Sou um Dev. Back-end Java, com aspiração a full-stack com Angular e Linguagens SQL ! Possuo conhecimentos em padrões web entre outras técnicas de programação.
+<p> Sou um Dev. full-stack trabalhando atualmente com Java(Spring) e Angular! Possuo conhecimentos em padrões web e SQL entre outras técnicas de programação.
 Estou sempre em busca de conhecimento e novos desafios, meus projetos pessoais e academicos podem ser encontrados aqui nesta página, que tal dar uma olhada? Para entrar em contato comigo, utilize os ícones abaixo. </p>
 
 <div align ="center">
@@ -11,6 +11,8 @@ Estou sempre em busca de conhecimento e novos desafios, meus projetos pessoais e
       <a target="_blank"href="https://twitter.com/bryxnwill"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 <div>
+  
+  <p> I'm a Full-stack dev actually working with Java(Spring) and Angular! I've knowledge in web standards and SQL besides other programming techniques. I'm always looking for new knowledges and new challenges, my personal and academic projects can be found here on this page, how about taking a look? To contact me, use the icons in my bio. </p>
 
 -----------------------------------
 ### Hi, I'm Bryan 👋
