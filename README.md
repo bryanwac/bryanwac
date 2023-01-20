@@ -10,7 +10,7 @@ Estou sempre em busca de conhecimento e novos desafios, meus projetos pessoais e
       <a target="_blank"href="mailto:bryanwac@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a target="_blank"href="https://twitter.com/bryxnwill"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
-<div>
+</div>
  <h2> About me </h2>
 <p> I'm a Full-stack dev actually working with Java(Spring) and Angular! I've knowledge in web standards and SQL besides other programming techniques. I'm always   looking for new knowledges and new challenges, my personal and academic projects can be found here on this page, how about taking a look? To contact me, use the      icons in my bio. </p>
 
