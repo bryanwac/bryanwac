@@ -17,6 +17,7 @@ Estou sempre em busca de conhecimento e novos desafios, meus projetos pessoais e
 
 -----------------------------------
 <div align ="center">
+  
 ### Hi, I'm Bryan 👋
 ### Welcome to my GitHub!
 
